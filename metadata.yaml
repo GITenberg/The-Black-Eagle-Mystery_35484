@@ -1,0 +1,37 @@
+_repo: The-Black-Eagle-Mystery_35484
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Steele, Frederic Dorr
+    alias: Steele, Frederick Dorr
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '31609'
+    url: http://www.gutenberg.org/2009/agents/31609
+covers:
+- cover_type: archival
+  image_path: 35484-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: http://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2011-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35484'
+  lccn: '16004388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Black Eagle Mystery
+url: http://www.gutenberg.org/ebooks/35484
